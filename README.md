@@ -1,3 +1,11 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=80&section=header"/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0066ff&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+SABARISH+K;ECE+Prefinal+Year+Student;Interested+in+Exploring+Web+Development;Learning+Java+%26+C+Programming;Building+Projects+and+Improving+Skills" alt="Typing SVG" />
+  </a>
+</div>
+
 # 💫 About Me:
 Hi, I’m Sabarish K 👋 <br>💻 Learning Programming <br>🌱 Exploring Java, Python & Web Development <br>🚀 Building Projects
 
